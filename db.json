@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "kiki",
+      "alamat": "Palembang",
+      "umur": 22,
+      "nohp": "08222111333"
+    },
+    {
+      "id": 2,
+      "nama": "sam",
+      "alamat": "Palembang",
+      "umur": 23,
+      "nohp": "08222111334"
+    },
+    {
+      "id": 3,
+      "nama": "ucup",
+      "alamat": "Palembang",
+      "umur": 24,
+      "nohp": "08222113345"
+    },
+    {
+      "id": 4,
+      "nama": "Bambang",
+      "alamat": "Palembang",
+      "umur": 25,
+      "nohp": "08222211234"
+    }
+  ]
+}
